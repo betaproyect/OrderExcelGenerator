@@ -1,0 +1,4 @@
+C:\Users\profe\OneDrive\Documentos\PEDIDOS\publish\ExcelProcessor.pdb
+C:\Users\profe\OneDrive\Documentos\PEDIDOS\publish\libSkiaSharp.dll
+C:\Users\profe\OneDrive\Documentos\PEDIDOS\publish\libSkiaSharp.pdb
+C:\Users\profe\OneDrive\Documentos\PEDIDOS\publish\ExcelProcessor.exe

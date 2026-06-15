@@ -1,0 +1,5 @@
+C:\Users\profe\OneDrive\Documentos\PEDIDOS\obj\Debug\net6.0\ExcelProcessor.csproj.AssemblyReference.cache
+C:\Users\profe\OneDrive\Documentos\PEDIDOS\obj\Debug\net6.0\ExcelProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\OneDrive\Documentos\PEDIDOS\obj\Debug\net6.0\ExcelProcessor.AssemblyInfoInputs.cache
+C:\Users\profe\OneDrive\Documentos\PEDIDOS\obj\Debug\net6.0\ExcelProcessor.AssemblyInfo.cs
+C:\Users\profe\OneDrive\Documentos\PEDIDOS\obj\Debug\net6.0\ExcelProcessor.csproj.CoreCompileInputs.cache
