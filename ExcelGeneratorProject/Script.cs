@@ -56,7 +56,7 @@ class Program
                 XSSFWorkbook outputWorkbook = new XSSFWorkbook();
 
                 // Crear página de coincidencias
-                ISheet outputSheet = outputWorkbook.CreateSheet("Coincidencias");
+                ISheet outputSheet = outputWorkbook.CreateSheet("Pedidoscompra");
                 
                 // Copiar explícitamente los encabezados de la PLANTILLA a la fila 0
                 IRow plantillaHeaderRow = plantillaSheet.GetRow(0);
@@ -268,6 +268,9 @@ class Program
                         }
                     }
                 }
+                
+                // Crear página necesaria para postprocesado
+                outputWorkbook.CreateSheet("Pedidosventa");
 
                 // Guardar el archivo de salida
                 using (FileStream outputFs = new FileStream(outputFilePath, FileMode.Create, FileAccess.Write, FileShare.None))
